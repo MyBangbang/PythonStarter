@@ -2,9 +2,9 @@
 # coding=utf-8
 #如果(if)语句
 
-prople = 20
+people = 20
 cats = 30
-dogs + 15
+dogs = 15
 
 
 if people < cats:
@@ -17,7 +17,7 @@ if people < dogs:
     print "The world is drooled on!"
     
 if people > dogs:
-    print "Yhe world is drooled on!"
+    print "The world is dry!"
 
 dogs += 5
 
